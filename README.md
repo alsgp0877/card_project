@@ -24,6 +24,10 @@
 사용한 템플릿 사이트 https://startbootstrap.com/template/heroic-features <br>
 css를 조금 수정했다. 이전 css는 너무 아닌것 같아서..
 2. 정보제공의 경우 1)실적 유무 2) 주의사항 3) 캐시백 대상 가맹점 확인하기 이렇게 카테고리를 나눠서 표출할 수 있도록 수정했다.
+for문이 절실하다 백엔드는 어떤것으로 구축하면 좋을려나
+css를 번역해주는 앱?
 
-
+2024-01-03
+생활코딩 유튜브의 node.js express 강의 듣기 원래는 express 강의 들을려고했으나 node.js를 모르면 안된다길래 node.js 강의 부터 듣는중.. 역시 들었어야 했네 ㅎㅎ<br>
+nodejs 설치 https://nodejs.org/en
 
